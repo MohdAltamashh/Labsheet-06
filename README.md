@@ -1,2 +1,2 @@
 # Labsheet-06
-Python Labsheet 05
+Python Labsheet 06
